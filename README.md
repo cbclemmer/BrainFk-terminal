@@ -1,4 +1,4 @@
-# Brain Fuck Terminal Emulator for Node.js
+# BF Terminal Emulator for Node.js
 
 **Note:** Requires input from user to start, type anything into the terminal and press enter and the program will start
 
